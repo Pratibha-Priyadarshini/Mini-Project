@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-slate-950 !important;
+}
+.slick-dots {
+  @apply -bottom-12 sm:-bottom-8 !important;
+}
+.slick-dots li.slick-active button:before,
+.slick-dots li button:before {
+  @apply text-orange-500 !important;
+}
+
+.slick-slide.slick-center {
+  @apply scale-110 !important;
+}
+.slick-slide {
+  @apply z-[998] !important;
+}
+
+.slick-active.slick-current {
+  @apply z-[999] !important;
+}
