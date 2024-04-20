@@ -10,7 +10,7 @@ const GameverseLogo = () => {
           alt="gameverse logo"
         />
         <h1 className="hidden text-lg font-bold tracking-widest text-white md:block">
-          GAMEVERSE
+          PIXALATE
         </h1>
       </div>
     </Link>
