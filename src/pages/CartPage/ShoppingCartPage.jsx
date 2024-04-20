@@ -96,7 +96,7 @@ const ShoppingCartPage = ({ cartGames, removeFromCart, fetchedGames }) => {
               <h3 className="text-md flex justify-between pb-8 font-bold md:text-lg">
                 Subtotal <span>${totalPrice}</span>
               </h3>
-              <button className="w-full self-center rounded-md  bg-blue-600 p-4 text-center  hover:bg-blue-500">
+              <button onClick="alert('Order placed!')" className="w-full self-center rounded-md bg-blue-600 p-4 text-center hover:bg-blue-500">
                 Check Out
               </button>
             </section>
