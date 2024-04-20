@@ -3,6 +3,10 @@ import { Link } from "react-router-dom";
 import { StarRatingGame } from "../StorePage/StarRating";
 
 const ShoppingCartPage = ({ cartGames, removeFromCart, fetchedGames }) => {
+  const handleCheckout = () => {
+    // Handle the checkout process here
+    alert('Order placed!');
+  };
   let totalPrice = cartGames
     .reduce((acc, game) => acc + game.price, 0)
     .toFixed(2);
@@ -96,7 +100,7 @@ const ShoppingCartPage = ({ cartGames, removeFromCart, fetchedGames }) => {
               <h3 className="text-md flex justify-between pb-8 font-bold md:text-lg">
                 Subtotal <span>${totalPrice}</span>
               </h3>
-              <button onClick="alert('Order placed!')" className="w-full self-center rounded-md bg-blue-600 p-4 text-center hover:bg-blue-500">
+              <button onClick={handleCheckout} className="w-full self-center rounded-md bg-blue-600 p-4 text-center hover:bg-blue-500">
                 Check Out
               </button>
             </section>
