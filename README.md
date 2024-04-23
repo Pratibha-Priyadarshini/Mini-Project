@@ -12,10 +12,15 @@ Pixalate is a personal project I created to explore game store functionalities, 
 - 	**Detailed Game Information**: Access comprehensive details about each game, including descriptions, ratings, genres, release dates, platforms, and screenshots.
 - 	**Persistent Data**: Utilize local storage to preserve cart items and user preferences across sessions, ensuring a seamless browsing experience.
 ## Screenshots
-![cv maker app preview](presentation-images/home-page-desktop.png)
+<img width="928" alt="image" src="https://github.com/Pratibha-Priyadarshini/Mini-Project/assets/158488616/44665a31-3a7d-4a4c-aa99-6ffc19a86459">
 
-![cv maker app preview](presentation-images/store-page-desktop.png)
 
-![cv maker app preview](presentation-images/game-page-desktop.png)
+<img width="927" alt="image" src="https://github.com/Pratibha-Priyadarshini/Mini-Project/assets/158488616/bf913e75-f6c0-4200-8e86-3d6d889dff4d">
 
-![cv maker app preview](presentation-images/cart-desktop.png)
+
+<img width="926" alt="image" src="https://github.com/Pratibha-Priyadarshini/Mini-Project/assets/158488616/1a4613a6-fe01-430a-84dd-aeb84c102e42">
+
+
+
+<img width="926" alt="image" src="https://github.com/Pratibha-Priyadarshini/Mini-Project/assets/158488616/d6e563b1-15a1-4282-a4b6-4726a470d0a0">
+
