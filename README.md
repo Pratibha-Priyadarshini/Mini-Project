@@ -1,6 +1,6 @@
-# Welcome to GameVerse 🎮
-GameVerse is a personal project I created to explore game store functionalities, utilizing React, Tailwind CSS, React Router, React Slick and integrating with the RAWG Video Games Database API. It provides a platform for browsing and shopping for games, featuring a home page, store, game page, and shopping cart.
-### LIVE: https://gameverse-six.vercel.app/
+# Welcome to Pixalate 🎮
+Pixalate is a personal project I created to explore game store functionalities, utilizing React, Tailwind CSS, React Router, React Slick and integrating with the RAWG Video Games Database API. It provides a platform for browsing and shopping for games, featuring a home page, store, game page, and shopping cart.
+### LIVE: [https://gameverse-six.vercel.app/](https://pratibha-priyadarshini.github.io/Mini-Project/)
 ## Features
 -  **Home Page**: Explore trending, top-rated, top-sellers, top-upcoming and recently updated games.
 - 	**Store**: Browse through a wide range of games and apply filters to find the perfect match.
